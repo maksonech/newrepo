@@ -9,4 +9,5 @@ def write_to_file(data):
         #for d in data.split():
             #print(data)
         a_pen.writerow([data])
+        #ppfpp
 write_to_file(a)
